@@ -46,10 +46,8 @@ To run in real-time simply clone the repository and download the weights file an
 ## Output 🎨
 Here is the output of the fingertip detection model.
 
-<p align="center">
-  ![](demo/demo.gif)
-  ![](demo/demo2.gif)
-</p>
+![](demo/demo.gif)
+![](demo/demo2.gif)
 
 ## Contact Me! 📢
 <p>
