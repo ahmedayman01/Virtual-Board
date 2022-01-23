@@ -52,7 +52,7 @@ Here is the output of the fingertip detection model.
 ## Contact Me! 📢
 
 If you have any queries or concerns, please feel free to contact us.
-[Ahmed Ayman](https://www.linkedin.com/in/ahmed-ayman-fawzy/) /n
-[Muhammed Swelam](https://www.linkedin.com/in/muhammad-swelam) /n
-[Ahmed Samy](https://www.linkedin.com/in/ahmed-samy-695398124) \n
+[Ahmed Ayman](https://www.linkedin.com/in/ahmed-ayman-fawzy/), 
+[Muhammed Swelam](https://www.linkedin.com/in/muhammad-swelam), 
+[Ahmed Samy](https://www.linkedin.com/in/ahmed-samy-695398124) and 
 [Ali Hegazy](https://www.linkedin.com/in/ali-hegazy) 
