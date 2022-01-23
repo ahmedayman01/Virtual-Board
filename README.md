@@ -49,7 +49,7 @@ Here is the output of the fingertip detection model.
 
 ![](demo/demo.gif)
 
-## Contact Me! 📢
+## Contact Us! 📢
 
 If you have any queries or concerns, please feel free to contact us.
 [Ahmed Ayman](https://www.linkedin.com/in/ahmed-ayman-fawzy/), 
