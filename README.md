@@ -50,10 +50,9 @@ Here is the output of the fingertip detection model.
 ![](demo/demo.gif)
 
 ## Contact Me! 📢
-<p>
-  If you have any queries or concerns, please feel free to contact us.
-  [Ahmed Ayman](https://www.linkedin.com/in/ahmed-ayman-fawzy/)
-  [Muhammed Swelam](https://www.linkedin.com/in/muhammad-swelam)
-  [Ahmed Samy](https://www.linkedin.com/in/ahmed-samy-695398124)
-  [Ali Hegazy](https://www.linkedin.com/in/ali-hegazy)
-</p>
+
+If you have any queries or concerns, please feel free to contact us.
+[Ahmed Ayman](https://www.linkedin.com/in/ahmed-ayman-fawzy/)
+[Muhammed Swelam](https://www.linkedin.com/in/muhammad-swelam)
+[Ahmed Samy](https://www.linkedin.com/in/ahmed-samy-695398124)
+[Ali Hegazy](https://www.linkedin.com/in/ali-hegazy)
