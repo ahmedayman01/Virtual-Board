@@ -1,6 +1,6 @@
 ## Virtual Board 👨‍🏫
 <p align="justify">
-  The virtual board project is aimed towards the educational domain in order to make it easier for instructors  to express concepts by drawing and writing with relative ease using hand gestures.
+  The virtual board project is aimed towards the educational domain to make it easier for instructors  to express concepts by drawing and writing with relative ease using hand gestures.
 </p>
     
 ### Why We Need Virtual Board?  
@@ -23,6 +23,7 @@
 [![Downloads](https://img.shields.io/badge/Download-Data-blue)](https://drive.google.com/file/d/1TiianKUdUa5eHt4Wn1GlNZWqQ_jVR9jY/view?usp=sharing)
 
 We had to generate our dataset which is around 3500 images using a python script to generate it. But we had to label the dataset manually which was time-consuming so we started using our model to try to predict the bounding boxes points for our new data images and print the annotation as text but we had to check the sanity of the prediction manually to ignore bad data. We also added more images from other datasets found that served our approach and of course, we did tons of augmentation.
+
 Note : This annotation is fitted for only YOLOv5 with pytorch if you needed to use it with any other model you have to update it using Roboflow .
 
 ## Project Architecture 🕸️
@@ -50,5 +51,9 @@ Here is the output of the fingertip detection model.
 
 ## Contact Me! 📢
 <p>
-  If you have any queries or concerns, please feel free to contact me.
+  If you have any queries or concerns, please feel free to contact us.
+  [Ahmed Ayman](https://www.linkedin.com/in/ahmed-ayman-fawzy/)
+  [Muhammed Swelam](https://www.linkedin.com/in/muhammad-swelam)
+  [Ahmed Samy](https://www.linkedin.com/in/ahmed-samy-695398124)
+  [Ali Hegazy](https://www.linkedin.com/in/ali-hegazy)
 </p>
